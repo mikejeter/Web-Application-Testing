@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  background: rgb(91, 218, 116);
+}
+
+.display {
+  width: 400px;
+  margin: 0 auto;
+  height: auto;
+}
+.buttons {
+  width: 500px;
+  margin: 0 auto;
+}
+button {
+  width: 100px;
+  height: 30px;
+  background: lightgrey;
+  margin-left: 5px;
+  border-radius: 5px;
+}
